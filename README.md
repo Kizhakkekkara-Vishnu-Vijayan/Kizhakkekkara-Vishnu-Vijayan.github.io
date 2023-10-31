@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 This is for checking
 
 It now includes steps for Github
+This is for pull command
